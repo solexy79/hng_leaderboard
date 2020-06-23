@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "fullname": "Agboola Sola",
+      "username": "@Sola",
+      "role": "Frontend",
+      "email": "agboolasola6@gmail.com",
+      "total_points" : 10
+    },
+
+    {
+      "id": 2,
+      "fullname": "Agboola Sola",
+      "username": "@Solexy79",
+      "role": "Frontend",
+      "email": "agboolasola6@gmail.com",
+      "total_points" :9
+    },
+
+    {
+      "id": 3,
+      "fullname": "Agboola Sola",
+      "username": "@Solexy79",
+      "role": "Frontend",
+      "email": "agboolasola6@gmail.com",
+      "total_points" : 8
+    },
+
+    {
+      "id": 4,
+      "fullname": "Agboola Sola",
+      "username": "@Solexy79",
+      "role": "Frontend",
+      "email": "agboolasola6@gmail.com",
+      "total_points" : 7
+    },
+
+    {
+      "id": 5,
+      "fullname": "Agboola Sola",
+      "username": "@Solexy79",
+      "role": "Frontend",
+      "email": "agboolasola6@gmail.com",
+      "total_points" : 6
+    },
+
+    {
+      "id": 6,
+      "fullname": "Agboola Sola",
+      "username": "@Solexy79",
+      "role": "Frontend",
+      "email": "agboolasola6@gmail.com",
+      "total_points" : 6
+    }
+
+  
+  ]
+}
